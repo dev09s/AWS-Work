@@ -21,3 +21,4 @@ step6: deploying with s3 bucket: Not using git for now
 
 <img src="images/web-amplify-deployed.png" width="100%">
 
+<img src="images/amplify-delete-app.png" width="100%">
