@@ -11,4 +11,4 @@ step4: open aws amply server and add this s3 bucket to serve the index.html file
 
 step5: open aws amplify service, then click deploy. 
 
-<img src="images/aws-amplify.png" width="400">
+<img src="images/aws-amplify.png" width="100%">
