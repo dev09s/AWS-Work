@@ -10,3 +10,5 @@ step3: upload index.html to newly crated s3 bucket.
 step4: open aws amply server and add this s3 bucket to serve the index.html file as a static website.
 
 step5: open aws amplify service, then click deploy. 
+
+<img src="aws-amplify.png" width="400">
